@@ -1,0 +1,83 @@
+h1 {
+    color: brown;
+    border-width: 5px;
+    border-color: cornflowerblue;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2 {
+    color: brown;
+    border-width: 5px;
+    border-color: cornflowerblue;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3 {
+    color: brown;
+    border-width: 5px;
+    border-color: cornflowerblue;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4 {
+    color: brown;
+    border-width: 5px;
+    border-color: cornflowerblue;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h5 {
+    color: brown;
+    border-width: 5px;
+    border-color: cornflowerblue;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h6 {
+    color: brown;
+    border-width: 5px;
+    border-color: cornflowerblue;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+html{
+    background-color: darkgoldenrod;
+    
+}
+button{
+    background-color: brown;
+    border-width: 2px;
+    border-radius: 5px;
+    color: darkcyan;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+hr{
+    background-color: darkcyan;
+    border-width: 10px;
+    border-color: darkcyan;
+    border-radius: 10px;
+}
+iframe{
+    border-radius: 10px;
+        
+}
+a{
+    color: brown;
+}
+ol{
+    color: brown;
+}
