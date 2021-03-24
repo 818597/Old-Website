@@ -1,7 +1,7 @@
 h1 {
     color: brown;
     border-width: 5px;
-    border-color: cornflowerblue;
+    border-color: brown;
     border-style: solid;
     border-radius: 10px;
     background-color: darkcyan;
@@ -10,7 +10,7 @@ h1 {
 h2 {
     color: brown;
     border-width: 5px;
-    border-color: cornflowerblue;
+    border-color: brown;
     border-style: solid;
     border-radius: 10px;
     background-color: darkcyan;
@@ -19,7 +19,7 @@ h2 {
 h3 {
     color: brown;
     border-width: 5px;
-    border-color: cornflowerblue;
+    border-color: brown;
     border-style: solid;
     border-radius: 10px;
     background-color: darkcyan;
@@ -28,7 +28,7 @@ h3 {
 h4 {
     color: brown;
     border-width: 5px;
-    border-color: cornflowerblue;
+    border-color: brown;
     border-style: solid;
     border-radius: 10px;
     background-color: darkcyan;
@@ -37,7 +37,7 @@ h4 {
 h5 {
     color: brown;
     border-width: 5px;
-    border-color: cyan;
+    border-color: brown;
     border-style: solid;
     border-radius: 10px;
     background-color: darkcyan;
@@ -46,7 +46,7 @@ h5 {
 h6 {
     color: brown;
     border-width: 5px;
-    border-color: cornflowerblue;
+    border-color: brown;
     border-style: solid;
     border-radius: 10px;
     background-color: darkcyan;
@@ -60,7 +60,8 @@ html{
 button{
     background-color: brown;
     border-width: 2px;
-    border-radius: 5px;
+    border-color: darkcyan;
+    border-radius: 20px;
     color: goldenrod;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
@@ -72,7 +73,7 @@ hr{
     border-radius: 10px;
 }
 iframe{
-    border-radius: 10px;
+    border-radius: 20px;
         
 }
 a{
