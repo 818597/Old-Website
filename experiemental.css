@@ -1,0 +1,29 @@
+/* CSS Document */
+div{
+	width: 50vw;
+	margin: auto;
+	color: white;
+	background-color: #0D1238;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 20px;
+}
+
+body{
+	background-image: url(oriental-tiles.png)
+}
+h1{
+	margin-top: 0px;
+}
+div:hover{
+	background-color: blue;
+	
+}
+.post-1:hover{
+	background-color: yellow;
+}
+.post-3:hover{
+	background-color: red;
+}
