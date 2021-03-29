@@ -66,6 +66,9 @@ button{
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
+button:hover{
+	background-color: darkcyan;
+}
 hr{
     background-color: darkcyan;
     border-width: 10px;
