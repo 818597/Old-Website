@@ -27,3 +27,10 @@ div:hover{
 .post-3:hover{
 	background-color: red;
 }
+@font-face{
+	font-family: "Young";
+	src:url("Fonts/Young.ttf");
+}
+html{
+	font-family: "Young";
+}
